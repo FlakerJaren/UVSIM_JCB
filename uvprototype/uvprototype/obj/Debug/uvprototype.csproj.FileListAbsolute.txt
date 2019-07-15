@@ -1,0 +1,6 @@
+c:\users\jaren\onedrive\documents\visual studio 2017\Projects\uvprototype\uvprototype\bin\Debug\uvprototype.exe.config
+c:\users\jaren\onedrive\documents\visual studio 2017\Projects\uvprototype\uvprototype\bin\Debug\uvprototype.exe
+c:\users\jaren\onedrive\documents\visual studio 2017\Projects\uvprototype\uvprototype\bin\Debug\uvprototype.pdb
+c:\users\jaren\onedrive\documents\visual studio 2017\Projects\uvprototype\uvprototype\obj\Debug\uvprototype.exe
+c:\users\jaren\onedrive\documents\visual studio 2017\Projects\uvprototype\uvprototype\obj\Debug\uvprototype.pdb
+c:\users\jaren\onedrive\documents\visual studio 2017\Projects\uvprototype\uvprototype\obj\Debug\uvprototype.csprojResolveAssemblyReference.cache
